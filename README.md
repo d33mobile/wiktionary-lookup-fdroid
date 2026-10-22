@@ -17,5 +17,7 @@ and the APK live under `repo/`.
 
 ## Licensing
 
-App code: MIT. Dictionary data: derived from Wiktionary, CC BY-SA 4.0 (and
+App: GNU GPL, version 3 or later (lookup engine MIT; handwriting recognizer
+HanziLookupJS, GPL, with Make Me a Hanzi stroke data under the Arphic Public
+License). Dictionary data: derived from Wiktionary, CC BY-SA 4.0 (and
 GFDL), credit to the Wiktionary contributors and kaikki.org.
