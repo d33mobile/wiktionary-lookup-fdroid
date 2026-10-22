@@ -1,8 +1,8 @@
 # Wiktionary Lookup: F-Droid repo
 
 Personal F-Droid repository hosting Wiktionary Lookup, an offline
-Chinese-English dictionary built from English Wiktionary data (via
-kaikki.org, CC BY-SA 4.0).
+dictionary built from English Wiktionary data (via kaikki.org, CC BY-SA 4.0):
+Chinese built in, every other Wiktionary language downloadable in the app.
 
 ## Add this repo on your phone
 
